@@ -1,6 +1,8 @@
 main{
 	width: 600px;
+	height: 300px;
 	font-size: 0;
+	margin:1px;
 	background-color: lightblue;
 }
 div{
